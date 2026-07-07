@@ -3,7 +3,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="ASTRA AI"
+        android:label="MAX AI"
         android:theme="@android:style/Theme.Material.Light">
 
         <activity
