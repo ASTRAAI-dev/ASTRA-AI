@@ -46,7 +46,7 @@ class MainActivity : ComponentActivity() {
                     Spacer(modifier = Modifier.height(24.dp))
 
                     Button(onClick = {
-                        speak("Hello, I am ASTRA AI. How can I help you today?")
+                        speak("Hello, I am MAX AI. How can I help you today?")
                     }) {
                         Text("Speak")
                     }
