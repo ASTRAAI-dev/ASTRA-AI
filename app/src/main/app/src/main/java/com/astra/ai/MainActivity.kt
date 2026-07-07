@@ -1,4 +1,4 @@
-package com.astra.ai
+package com.max.ai
 
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
