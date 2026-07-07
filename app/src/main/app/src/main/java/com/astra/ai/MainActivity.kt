@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
                     verticalArrangement = Arrangement.Center
                 ) {
                     Text(
-                        text = "Hello, I am ASTRA AI 🤖 (v2)",
+                        text = "Hello, I am MAX AI 🤖 (v2)",
                         fontSize = 22.sp
                     )
 
